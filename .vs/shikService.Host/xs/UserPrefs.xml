@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{FE5ACA56-D0F9-497E-B17A-69BBAF3A129C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="shikService.Api/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="shikService.Api/Controllers/ValuesController.cs" Line="58" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shikService.Host" expanded="True">
+            <Node name="shikService.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="shikService.Infrastructure" expanded="True">
+              <Node name="Ef" expanded="True">
+                <Node name="Configurations" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.shikService.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

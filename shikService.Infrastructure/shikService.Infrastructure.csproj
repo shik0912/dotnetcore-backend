@@ -9,4 +9,10 @@
     <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.17" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Migrations\20190902142133_owned-type.cs" />
+    <Compile Remove="Migrations\20190902143959_owned-type4.Designer.cs" />
+    <Compile Remove="Migrations\20190902143533_owned-type3.Designer.cs" />
+    <Compile Remove="Migrations\20190902143959_owned-type4.cs" />
+  </ItemGroup>
 </Project>

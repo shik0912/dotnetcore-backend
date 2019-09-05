@@ -1,9 +1,0 @@
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/bin/Debug/netcoreapp2.1/shikService.Infrastructure.deps.json
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/bin/Debug/netcoreapp2.1/shikService.Infrastructure.dll
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/bin/Debug/netcoreapp2.1/shikService.Infrastructure.pdb
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/obj/Debug/netcoreapp2.1/shikService.Infrastructure.csprojAssemblyReference.cache
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/obj/Debug/netcoreapp2.1/shikService.Infrastructure.csproj.CoreCompileInputs.cache
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/obj/Debug/netcoreapp2.1/shikService.Infrastructure.AssemblyInfoInputs.cache
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/obj/Debug/netcoreapp2.1/shikService.Infrastructure.AssemblyInfo.cs
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/obj/Debug/netcoreapp2.1/shikService.Infrastructure.dll
-/home/shik/Workspace/dotnet/shikService.Host/shikService.Infrastructure/obj/Debug/netcoreapp2.1/shikService.Infrastructure.pdb

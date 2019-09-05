@@ -1,4 +1,4 @@
-using Footprint.Infrastructure.Ef;
+using shikService.Infrastructure.Ef;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
